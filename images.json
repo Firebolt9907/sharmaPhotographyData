@@ -1,11 +1,1 @@
-{
-    "images": [
-        {
-            "fileName": "image_picker_37946D7C-E847-40F8-914F-F278888090EF-602-00000044CB6FB299.jpg",
-            "jpgUrl": "https://raw.githubusercontent.com/Firebolt9907/sharmaPhotographyData/master/jpg/image_picker_37946D7C-E847-40F8-914F-F278888090EF-602-00000044CB6FB299.jpg",
-            "uploadedAt": "2025-08-06T20:16:23.650985",
-            "imageType": "photo",
-            "description": ""
-        }
-    ]
-}
+{"images":[{"fileName":"image_picker_1AD284E7-73F1-4FF5-A697-5EB7A87333FC-33954-000002AD58046D01.jpg","jpgUrl":"https://raw.githubusercontent.com/Firebolt9907/sharmaPhotographyData/main/jpg/image_picker_1AD284E7-73F1-4FF5-A697-5EB7A87333FC-33954-000002AD58046D01.jpg","webpUrl":"https://raw.githubusercontent.com/Firebolt9907/sharmaPhotographyData/main/webp/image_picker_1AD284E7-73F1-4FF5-A697-5EB7A87333FC-33954-000002AD58046D01.jpg","uploadedAt":"2025-08-07T15:27:28.840100","imageType":"photo","description":"Spirit Island, Jasper"},{"fileName":"image_picker_37946D7C-E847-40F8-914F-F278888090EF-602-00000044CB6FB299.jpg","jpgUrl":"https://raw.githubusercontent.com/Firebolt9907/sharmaPhotographyData/master/jpg/image_picker_37946D7C-E847-40F8-914F-F278888090EF-602-00000044CB6FB299.jpg","uploadedAt":"2025-08-06T20:16:23.650985","imageType":"photo","description":""}]}
